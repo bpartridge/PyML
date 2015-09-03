@@ -154,7 +154,7 @@ setup (name = name,
        #py_modules = PyML_modules,
        packages = PyML_packages,
        ext_modules = extensions,
-       setup_requires = 'numpy==1.9.1',
-       install_requires = 'numpy==1.9.1'
+       setup_requires = 'numpy==1.9.2',
+       install_requires = 'numpy==1.9.2'
        #extra_path = 'PyML'
        )
